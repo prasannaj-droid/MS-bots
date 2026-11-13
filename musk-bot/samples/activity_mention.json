@@ -1,0 +1,19 @@
+{
+  "type": "message",
+  "id": "1731511200000",
+  "timestamp": "2026-11-13T16:00:00Z",
+  "channelId": "msteams",
+  "serviceUrl": "https://smba.trafficmanager.net/amer/",
+  "from": {"id": "29:1abc-user", "name": "Priya Nair", "aadObjectId": "00000000-0000-0000-0000-000000000001"},
+  "conversation": {"id": "19:meeting_MjAyNi0xMS0xM@thread.v2", "conversationType": "groupChat", "tenantId": "00000000-0000-0000-0000-0000000000aa"},
+  "recipient": {"id": "28:musk-bot-app-id", "name": "musk"},
+  "text": "<at>musk</at> what's the takeaway from this meeting?",
+  "textFormat": "plain",
+  "entities": [
+    {"type": "mention", "text": "<at>musk</at>", "mentioned": {"id": "28:musk-bot-app-id", "name": "musk"}}
+  ],
+  "channelData": {
+    "tenant": {"id": "00000000-0000-0000-0000-0000000000aa"},
+    "meeting": {"id": "MCMxOTptZWV0aW5nX01qQXlOaTB4TVMweE1Ab"}
+  }
+}

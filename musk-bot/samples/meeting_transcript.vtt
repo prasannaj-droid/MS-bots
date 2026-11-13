@@ -1,0 +1,37 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:09.000
+<v Priya Nair>Okay, let's start. Agenda today: the hotel booking widget redesign, the SEO audit tool, and Q1 hiring.
+
+00:00:10.000 --> 00:00:21.000
+<v Daniel Ortiz>On the booking widget, the mobile conversion rate dropped about four percent after the last release. I think the date picker is the problem, it takes three taps to pick a range.
+
+00:00:22.000 --> 00:00:30.000
+<v Priya Nair>Agreed. Let's decide to replace the date picker with a single-screen range selector. Daniel, can you own that?
+
+00:00:31.000 --> 00:00:36.000
+<v Daniel Ortiz>Yes, I will prototype the new range selector by next Friday.
+
+00:00:37.000 --> 00:00:49.000
+<v Meera Shah>For the SEO audit tool, the crawler times out on sites with more than ten thousand pages. We need to add pagination to the crawl queue and a retry with backoff.
+
+00:00:50.000 --> 00:00:58.000
+<v Priya Nair>Okay, action item for Meera: add crawl queue pagination and retries. Also we should log crawl failures to Application Insights.
+
+00:00:59.000 --> 00:01:08.000
+<v Meera Shah>I will do both. I also want a dashboard so account managers can see audit status per client.
+
+00:01:09.000 --> 00:01:18.000
+<v Priya Nair>Good idea, but let's park the dashboard until after the crawler fix. Decision: dashboard goes to next sprint.
+
+00:01:19.000 --> 00:01:30.000
+<v Arjun Rao>On hiring, we agreed to open two backend roles and one QA role. I will draft the job descriptions and share them by Wednesday.
+
+00:01:31.000 --> 00:01:40.000
+<v Priya Nair>Great. One risk: the hotel client launch is on December 5, so the widget fix must ship before then.
+
+00:01:41.000 --> 00:01:47.000
+<v Daniel Ortiz>Understood. We will target staging by November 28.
+
+00:01:48.000 --> 00:01:54.000
+<v Priya Nair>Thanks everyone. I'll send the notes. Let's meet again next Tuesday.
