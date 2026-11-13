@@ -1,0 +1,5 @@
+[
+  {"from": "Priya Nair", "text": "Ideas for the client portal we discussed: 1) self-serve SEO report downloads, 2) a booking-funnel health score per hotel, 3) Slack/Teams alerts when conversion drops more than 3%."},
+  {"from": "Daniel Ortiz", "text": "+1 to the health score. We could compute it nightly from GA4 data."},
+  {"from": "Meera Shah", "text": "Alerts would need a threshold config per client, not one global number."}
+]
